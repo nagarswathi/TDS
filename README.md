@@ -10,7 +10,7 @@ This repository demonstrates a GitHub Pages site with a creative custom 404 erro
 - 📧 Contact information included
 
 ## Contact
-Email: 23f3000168@ds.study.iitm.ac.in
+Email: 21f1000509@ds.study.iitm.ac.in
 
 ## Testing
 Visit any non-existent page to see the custom 404 page in action!
